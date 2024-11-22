@@ -11,6 +11,11 @@ html {
   padding: 0;
 }
 
+h1 {
+  display: flex;
+  align-items: center;
+}
+
 body {
   align-items: center;
   background: linear-gradient(320deg, #ad65c4, #ffef78, #7154b6);
